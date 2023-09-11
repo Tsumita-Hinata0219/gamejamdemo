@@ -3,9 +3,10 @@
 
 int main() {
 
-	// future/HelloWorld‚Åì‹Æ
-	printf("Hello World\n");
 
+
+	// future/newWorld‚Åì‹Æ
+	printf("new World\n");
 
 
 	return 0;
