@@ -3,7 +3,8 @@
 
 int main() {
 
-
+	// future/HelloWorld‚Åì‹Æ
+	printf("Hello World\n");
 
 
 
